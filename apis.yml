@@ -50,6 +50,21 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/gm-onstar.png
 tags:
   - Automotive
+  - Connected Vehicles
+  - Telematics
+  - Fleet Management
+  - Vehicle Data
+  - Vehicle Location
+  - Vehicle Diagnostics
+  - Driver Behavior
+  - Electric Vehicles
+  - EV Charging
+  - OnStar
+  - General Motors
+  - Embedded Connectivity
+  - OEM Telematics
+tags_raw:
+  - Automotive
   - Connected Vehicle
   - Telematics
   - Fleet Management
